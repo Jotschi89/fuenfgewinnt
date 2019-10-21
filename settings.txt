@@ -1,0 +1,8 @@
+DEBUG=false
+DIMENSION=15
+PLAYERCOLOR=red
+KI_FILE1=C:\Spiele\5Gewinnt\schwer2.ki
+KI_FILE2=C:\Spiele\5Gewinnt\schwer2.ki
+TIMER=false
+STARTTIME=15000
+ADDTIME=2000
